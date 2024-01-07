@@ -16,7 +16,7 @@ namespace ShaTask.Entities.Models
         public string CityName { get; set; }
 
         // Navigation Property 
-        List<Branch> Branches { get; set; }
+        public List<Branch> Branches { get; set; }
 
     }
 

@@ -1,0 +1,12 @@
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Entities\bin\Debug\net6.0\ShaTask.Entities.deps.json
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Entities\bin\Debug\net6.0\ShaTask.Entities.dll
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Entities\bin\Debug\net6.0\ShaTask.Entities.pdb
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Entities\obj\Debug\net6.0\ShaTask.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Entities\obj\Debug\net6.0\ShaTask.Entities.AssemblyInfoInputs.cache
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Entities\obj\Debug\net6.0\ShaTask.Entities.AssemblyInfo.cs
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Entities\obj\Debug\net6.0\ShaTask.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Entities\obj\Debug\net6.0\ShaTask.Entities.sourcelink.json
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Entities\obj\Debug\net6.0\ShaTask.Entities.dll
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Entities\obj\Debug\net6.0\refint\ShaTask.Entities.dll
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Entities\obj\Debug\net6.0\ShaTask.Entities.pdb
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Entities\obj\Debug\net6.0\ref\ShaTask.Entities.dll

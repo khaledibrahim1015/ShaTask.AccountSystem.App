@@ -15,7 +15,7 @@ namespace ShaTask.Entities.Models
         public string ItemName { get; set; }
         public double ItemCount { get; set; }
         public double ItemPrice { get; set; }
-        public int InvoiceHeaderId { get; set; }
+        public long InvoiceHeaderId { get; set; }
 
         // Navigation Property 
 

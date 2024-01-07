@@ -1,0 +1,12 @@
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\bin\Debug\net6.0\ShaTask.Services.deps.json
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\bin\Debug\net6.0\ShaTask.Services.dll
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\bin\Debug\net6.0\ShaTask.Services.pdb
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\ShaTask.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\ShaTask.Services.AssemblyInfoInputs.cache
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\ShaTask.Services.AssemblyInfo.cs
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\ShaTask.Services.csproj.CoreCompileInputs.cache
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\ShaTask.Services.sourcelink.json
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\ShaTask.Services.dll
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\refint\ShaTask.Services.dll
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\ShaTask.Services.pdb
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\ref\ShaTask.Services.dll

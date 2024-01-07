@@ -13,7 +13,7 @@ namespace ShaTask.Entities.Models
     {
         public int Id { get; set; }
         public string CashierName { get; set; }
-        public string BranchId { get; set; }
+        public int BranchId { get; set; }
 
         // Navigation Property 
         public Branch Branch { get; set; }
