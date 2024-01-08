@@ -804,6 +804,19 @@
         "runtime": {
           "bin/placeholder/ShaTask.Persistence.dll": {}
         }
+      },
+      "ShaTask.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ShaTask.Persistence": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShaTask.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShaTask.Services.dll": {}
+        }
       }
     }
   },
@@ -2033,6 +2046,11 @@
       "type": "project",
       "path": "../ShaTask.Persistence/ShaTask.Persistence.csproj",
       "msbuildProject": "../ShaTask.Persistence/ShaTask.Persistence.csproj"
+    },
+    "ShaTask.Services/1.0.0": {
+      "type": "project",
+      "path": "../ShaTask.Services/ShaTask.Services.csproj",
+      "msbuildProject": "../ShaTask.Services/ShaTask.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2041,7 +2059,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 6.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.0",
-      "ShaTask.Persistence >= 1.0.0"
+      "ShaTask.Persistence >= 1.0.0",
+      "ShaTask.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2073,6 +2092,9 @@
           "projectReferences": {
             "C:\\Users\\ZALL-TECH\\Desktop\\ShaTask\\ShaTask.AccountSystem.App\\ShaTask.Persistence\\ShaTask.Persistence.csproj": {
               "projectPath": "C:\\Users\\ZALL-TECH\\Desktop\\ShaTask\\ShaTask.AccountSystem.App\\ShaTask.Persistence\\ShaTask.Persistence.csproj"
+            },
+            "C:\\Users\\ZALL-TECH\\Desktop\\ShaTask\\ShaTask.AccountSystem.App\\ShaTask.Services\\ShaTask.Services.csproj": {
+              "projectPath": "C:\\Users\\ZALL-TECH\\Desktop\\ShaTask\\ShaTask.AccountSystem.App\\ShaTask.Services\\ShaTask.Services.csproj"
             }
           }
         }

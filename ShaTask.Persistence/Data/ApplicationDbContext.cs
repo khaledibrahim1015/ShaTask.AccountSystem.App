@@ -7,9 +7,6 @@ namespace ShaTask.Persistence.Data
 {
     public class ApplicationDbContext :DbContext
     {
-        //public ApplicationDbContext()
-        //{       
-        //}
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
         public DbSet<Branch> Branches { get; set; }
         public DbSet<Cashier> Cashier { get; set; }
@@ -24,9 +21,5 @@ namespace ShaTask.Persistence.Data
             modelBuilder.ApplyConfiguration(new InvoiceDetailEntityConfiguration());
             modelBuilder.ApplyConfiguration(new InvoiceHeaderEntityConfiguration());
         }
-
-
-
-
     }
 }

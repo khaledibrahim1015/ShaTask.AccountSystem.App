@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ShaTask.Persistence\ShaTask.Persistence.csproj" />
+  </ItemGroup>
+
 </Project>

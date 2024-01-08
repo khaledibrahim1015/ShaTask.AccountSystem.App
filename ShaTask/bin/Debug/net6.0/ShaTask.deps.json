@@ -12,7 +12,8 @@
           "Microsoft.EntityFrameworkCore.Design": "6.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.0",
-          "ShaTask.Persistence": "1.0.0"
+          "ShaTask.Persistence": "1.0.0",
+          "ShaTask.Services": "1.0.0"
         },
         "runtime": {
           "ShaTask.dll": {}
@@ -443,6 +444,14 @@
         "runtime": {
           "ShaTask.Persistence.dll": {}
         }
+      },
+      "ShaTask.Services/1.0.0": {
+        "dependencies": {
+          "ShaTask.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "ShaTask.Services.dll": {}
+        }
       }
     }
   },
@@ -759,6 +768,11 @@
       "sha512": ""
     },
     "ShaTask.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShaTask.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -10,3 +10,9 @@ C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\ob
 C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\refint\ShaTask.Services.dll
 C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\ShaTask.Services.pdb
 C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\ref\ShaTask.Services.dll
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\bin\Debug\net6.0\ShaTask.Entities.dll
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\bin\Debug\net6.0\ShaTask.Persistence.dll
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\bin\Debug\net6.0\ShaTask.Persistence.pdb
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\bin\Debug\net6.0\ShaTask.Entities.pdb
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\ShaTask.Services.csproj.AssemblyReference.cache
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask.Services\obj\Debug\net6.0\ShaTask.Services.csproj.CopyComplete

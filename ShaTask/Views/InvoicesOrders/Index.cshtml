@@ -1,0 +1,80 @@
+﻿@model IEnumerable<InvoiceHeaderAndDetailsVM>
+
+
+@{
+
+    ViewData["Title"] = "Invoices ";
+
+}
+
+
+    <div class="row">
+        @* <div class="col-md-12 table-responsive-md"> *@
+        <diV class="col-md-12"> 
+
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            Invoice No.
+                        </th>
+                        <th>
+                            Customer Name
+                        </th>
+                        <th>
+                            Creation Date
+                        </th>
+                        <th>
+                            Total Price
+                        </th>
+                           <th>
+                           Cashier Name
+                        </th>
+                           <th>
+                           Branch Name
+                        </th>
+                    </tr>
+                </thead>
+            @if (Model.Any())
+            {
+               <tbody>
+                   @foreach (var item in Model)
+                    {
+                        <tr>
+
+                            <td>@item.InvoiceHeaderId</td>
+                            <td>@item.CustomerName</td>
+                            <td>@item.InvoiceDate</td>
+                            <td>@item.TotalPrice</td>
+                            <td>@item.CashierName</td>
+                            <td>@item.BranchName</td>
+
+                        </tr>
+
+
+                    }
+               </tbody>
+
+
+
+
+            }
+            else
+            {
+              <div class="p-3 text-primary-emphasis bg-primary-subtle border border-primary-subtle rounded-3">
+                No  Invoices Created Yet !!!!!!!
+              </div>  
+
+            }
+
+
+
+
+
+            </table>
+
+
+
+        </div>
+    </div>
+

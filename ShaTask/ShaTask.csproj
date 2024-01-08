@@ -21,6 +21,11 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ShaTask.Persistence\ShaTask.Persistence.csproj" />
+    <ProjectReference Include="..\ShaTask.Services\ShaTask.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Wrappers\" />
   </ItemGroup>
 
 </Project>

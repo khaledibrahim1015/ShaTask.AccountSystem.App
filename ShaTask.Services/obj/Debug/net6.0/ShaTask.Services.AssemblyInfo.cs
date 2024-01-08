@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShaTask.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a71db715b0ce7e5f7f54934a5062bed00b806ae9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4be6b83fa382ad4fc1c90e2463dad97f726e72b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShaTask.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShaTask.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

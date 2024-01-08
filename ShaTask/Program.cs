@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using ShaTask.Persistence.Data;
+using ShaTask.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,8 @@ builder.Services.AddControllersWithViews();
 // To Configure DbContext 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString")));
+
+ builder.Services.AddScoped<IInvoiceHeaderAndInvoiceDetailsService, InvoiceHeaderAndInvoiceDetailsImpl>();
 
 var app = builder.Build();
 

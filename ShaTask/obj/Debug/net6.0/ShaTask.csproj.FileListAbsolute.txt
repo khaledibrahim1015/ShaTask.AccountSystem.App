@@ -98,3 +98,5 @@ C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask\obj\Debug\n
 C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask\obj\Debug\net6.0\ShaTask.pdb
 C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask\obj\Debug\net6.0\ShaTask.genruntimeconfig.cache
 C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask\obj\Debug\net6.0\ref\ShaTask.dll
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask\bin\Debug\net6.0\ShaTask.Services.dll
+C:\Users\ZALL-TECH\Desktop\ShaTask\ShaTask.AccountSystem.App\ShaTask\bin\Debug\net6.0\ShaTask.Services.pdb
