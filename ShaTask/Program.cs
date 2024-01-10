@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using ShaTask.Persistence.Data;
 using ShaTask.Services;
+using ShaTask.Services.Impelementaion;
+using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,7 +14,9 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString")));
 
- builder.Services.AddScoped<IInvoiceHeaderAndInvoiceDetailsService, InvoiceHeaderAndInvoiceDetailsImpl>();
+//-- Container
+ builder.Services.AddScoped<IInvoicesOrdersService, IInvoicesOrdersImpl>();
+builder.Services.AddScoped<ICityAndBranchAndCashierService ,CityAndBranchAndCashierImpl>();
 
 var app = builder.Build();
 

@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShaTask.Entities.DTOs
+namespace ShaTask.Models
 {
-    public class InvoiceHeaderAndDetailsVM
+    public class InvoicesOrdersVM
     {
         [Display(Name ="Invoice No.")]
         public long InvoiceHeaderId { get; set; }
@@ -19,5 +19,11 @@ namespace ShaTask.Entities.DTOs
         [Display(Name = "Total Price")]
 
         public double TotalPrice { get; set; }
+        [Display(Name = "Branch Name")]
+
+        public string BranchName { get; set; }
+        [Display(Name = "Cashier Name")]
+
+        public string CashierName { get; set; }
     }
 }

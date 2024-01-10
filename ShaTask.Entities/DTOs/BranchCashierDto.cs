@@ -6,14 +6,12 @@ using System.Threading.Tasks;
 
 namespace ShaTask.Entities.DTOs
 {
-    public class InvoiceHeaderAndDetailsDto
+    public class BranchCashierDto
     {
-        public long InvoiceHeaderId { get; set; }
-        public string CustomerName { get; set; }
-        public DateTime InvoiceDate { get; set; }
-        public double TotalPrice { get; set; }
+        public int BranchId { get; set; }
         public string BranchName { get; set; }
+        public int CashierId { get; set; }
         public string CashierName { get; set; }
-
     }
+
 }

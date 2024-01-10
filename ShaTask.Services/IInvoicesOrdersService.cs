@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace ShaTask.Services
 {
-    public interface  IInvoiceHeaderAndInvoiceDetailsService
+    public interface  IInvoicesOrdersService
     {
-        IEnumerable<InvoiceHeaderAndDetailsDto> GetAllInvoices();
+        IEnumerable<InvoicesOrdersDto> GetAllInvoices();
     }
 }

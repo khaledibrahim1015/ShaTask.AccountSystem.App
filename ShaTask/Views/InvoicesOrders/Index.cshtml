@@ -1,4 +1,4 @@
-﻿@model IEnumerable<InvoiceHeaderAndDetailsVM>
+﻿@model IEnumerable<InvoicesOrdersVM>
 
 
 @{
@@ -6,7 +6,9 @@
     ViewData["Title"] = "Invoices ";
 
 }
-
+<hr />
+<a asp-controller="InvoicesOrders" asp-action="Create" class="btn btn-primary">Add New Invoice </a>
+<hr />
 
     <div class="row">
         @* <div class="col-md-12 table-responsive-md"> *@
